@@ -24,6 +24,6 @@ Group Number:
 4
 
 Group Members:
-20101238 Name Aditi Saha Ria
-20101239 Name Md Raihanul Islam Bhuiyan
-20101225 Name Mahin Shahriar Efaz
+20101225 Mahin Shahriar Efaz
+20101238 Aditi Saha Ria
+20101239 Md. Raihanul Ishlam Bhuiyan
